@@ -1,6 +1,3 @@
-Berikut adalah contoh README untuk proyek analisis klasifikasi pelanggan Telco:
-
----
 
 # Telco Customer Classification Analysis
 
